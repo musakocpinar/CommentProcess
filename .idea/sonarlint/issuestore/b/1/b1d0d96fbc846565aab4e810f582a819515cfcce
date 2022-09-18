@@ -1,0 +1,8 @@
+
+X
+java:S1854c"=Remove this useless assignment to local variable "voteCount".(ë¸‚ûÿÿÿÿ
+E
+java:S1611\"/Remove the parentheses around the "k" parameter(ÅÉ¹“
+I
+java:S1481c".Remove this unused "voteCount" local variable.(ë¸‚ûÿÿÿÿ
+V	java:S125d"<This block of commented-out lines of code should be removed.(˜ø¯Èúÿÿÿÿ
